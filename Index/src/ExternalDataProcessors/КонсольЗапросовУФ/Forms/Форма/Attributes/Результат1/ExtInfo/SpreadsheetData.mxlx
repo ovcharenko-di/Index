@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://v8.1c.ru/8.2/data/spreadsheet" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<columns>
+		<size>2</size>
+	</columns>
+	<rowsItem>
+		<index>0</index>
+		<row>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>1</index>
+		<row>
+			<c>
+				<c>
+					<f>0</f>
+					<tl/>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>1</f>
+					<tl>
+						<v8:item>
+							<v8:lang>#</v8:lang>
+							<v8:content>Консоль запросов 8.3.2.19</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>3</index>
+		<row>
+			<c>
+				<i>1</i>
+				<c>
+					<f>2</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<defaultFormatIndex>3</defaultFormatIndex>
+	<height>4</height>
+	<vgRows>4</vgRows>
+	<font bold="true" faceName="Arial" height="26" italic="false" kind="Absolute" scale="100" strikeout="false" underline="false"/>
+	<format>
+		<font>0</font>
+		<width>72</width>
+		<textColor>style:ButtonTextColor</textColor>
+	</format>
+	<format>
+		<hyperLink>true</hyperLink>
+	</format>
+	<format>
+		<width>72</width>
+	</format>
+</document>
